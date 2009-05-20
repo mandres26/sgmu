@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SGM", "C:\Documents and Settings\Yamit\Escritorio\SGM\", "{444AC0C5-EE7F-4263-90A6-D20A6AC962CC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/SGM"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Documents and Settings\Yamit\Escritorio\SGM\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SGM\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SGM"
+		Release.AspNetCompiler.PhysicalPath = "C:\Documents and Settings\Yamit\Escritorio\SGM\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SGM\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3158"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444AC0C5-EE7F-4263-90A6-D20A6AC962CC}.Debug|.NET.ActiveCfg = Debug|.NET
+		{444AC0C5-EE7F-4263-90A6-D20A6AC962CC}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
